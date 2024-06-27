@@ -24,6 +24,7 @@
 - [css](#css)
 - [discord](#discord)
 - [docker](#docker)
+- [documentation](#documentation)
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emulator](#emulator)
@@ -52,6 +53,7 @@
 - [linux](#linux)
 - [lua](#lua)
 - [macos](#macos)
+- [markdown](#markdown)
 - [monitoring](#monitoring)
 - [music](#music)
 - [nextjs](#nextjs)
@@ -69,6 +71,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [redux](#redux)
+- [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -119,6 +122,7 @@
 
 ## awesome-list 
 
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
@@ -186,6 +190,10 @@
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## documentation 
+
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 
 ## dotnet 
 
@@ -369,6 +377,10 @@
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 
+## markdown 
+
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+
 ## monitoring 
 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
@@ -410,6 +422,7 @@
 
 ## others 
 
+- [waynezhang/foto](https://github.com/waynezhang/foto) - Yet another publishing tool for minimalist photographers.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
@@ -598,6 +611,10 @@
 
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 
+## ruby 
+
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+
 ## rust 
 
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
@@ -669,6 +686,7 @@
 
 ## website 
 
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 
 ## windows 
