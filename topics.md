@@ -422,6 +422,7 @@
 
 ## others 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [Rookiestyle/KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - Add OTP support (two factor authentication) to KeePass
 - [waynezhang/foto](https://github.com/waynezhang/foto) - Yet another publishing tool for minimalist photographers.
