@@ -298,7 +298,7 @@
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 - [Root-MtX/Nro2Nsp](https://github.com/Root-MtX/Nro2Nsp) - Build Redirction and romfs nsps out of .nros
-- [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: Custom, open-source qlaunch (Nintendo Switch HOME menu) replacement/reimplementation
+- [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: The themeable Nintendo Switch HOME menu Nintendo forgot to make
 - [noahc3/PegaScape](https://github.com/noahc3/PegaScape) - A user-friendly public frontend for common PegaSwitch scripts including Nereba, Caffeine, HBL and more.
 - [Ryuzaki-MrL/Cthulhu](https://github.com/Ryuzaki-MrL/Cthulhu) - Homebrew alternative to Nintendo's dev unit software
 - [derrekr/fastboot3DS](https://github.com/derrekr/fastboot3DS) - A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
@@ -383,7 +383,7 @@
 
 ## monitoring 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## music 
@@ -398,7 +398,7 @@
 ## nextjs 
 
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
 ## node 
@@ -417,7 +417,7 @@
 
 ## open-source 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## others 
