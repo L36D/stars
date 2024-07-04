@@ -172,6 +172,7 @@
 
 ## discord 
 
+- [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
