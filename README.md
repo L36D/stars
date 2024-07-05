@@ -12,6 +12,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
@@ -105,6 +106,7 @@
 
 ## C# # 
 
+- [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [Rookiestyle/KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - Add OTP support (two factor authentication) to KeePass
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
 - [dhaven/ProtonDriveSync](https://github.com/dhaven/ProtonDriveSync) - A keepass extension for storing Database files on ProtonDrive
@@ -187,8 +189,13 @@
 
 ## CSS 
 
+- [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+
+## Clojure 
+
+- [anvil-works/anvil-runtime](https://github.com/anvil-works/anvil-runtime) - The runtime engine for hosting Anvil web apps
 
 ## Dart 
 
@@ -204,6 +211,7 @@
 
 ## HTML 
 
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
@@ -225,6 +233,8 @@
 
 ## JavaScript 
 
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (pixelated avatar) generator
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
@@ -239,7 +249,6 @@
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [alphasp/pxview](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS, built with React Native.
 - [canaria3406/hoyolab-auto-sign](https://github.com/canaria3406/hoyolab-auto-sign) - A lightweight, secure, and free script that automatically collect Hoyolab daily check in rewards. Supports Genshin Impact, Honkai Impact 3rd, and Honkai: Star Rail.
-- [IL01DI/BetterDiscord-Setup](https://github.com/IL01DI/BetterDiscord-Setup) - 
 - [charfweh/discord-bot-dashboard](https://github.com/charfweh/discord-bot-dashboard) - Starter pack for Bot+Dashboard
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
@@ -276,6 +285,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [github-profile-achievements/english](https://github.com/github-profile-achievements/english) - Complete list of all GitHub profile Badges and Achievements
@@ -355,6 +365,8 @@
 
 ## TypeScript 
 
+- [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
+- [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
