@@ -215,6 +215,7 @@
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [System233/system233.github.io](https://github.com/System233/system233.github.io) - 风物之诗琴网页版,支持osu!std模式、PCK资源提取器
 - [dominicogabriel/Genshin-Teapot-Oreo](https://github.com/dominicogabriel/Genshin-Teapot-Oreo) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
@@ -246,7 +247,6 @@
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [alphasp/pxview](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS, built with React Native.
 - [canaria3406/hoyolab-auto-sign](https://github.com/canaria3406/hoyolab-auto-sign) - A lightweight, secure, and free script that automatically collect Hoyolab daily check in rewards. Supports Genshin Impact, Honkai Impact 3rd, and Honkai: Star Rail.
 - [charfweh/discord-bot-dashboard](https://github.com/charfweh/discord-bot-dashboard) - Starter pack for Bot+Dashboard
