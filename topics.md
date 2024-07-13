@@ -22,15 +22,12 @@
 - [discord](#discord)
 - [docker](#docker)
 - [electron](#electron)
-- [emulator](#emulator)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
-- [game-development](#game-development)
-- [game-engine](#game-engine)
 - [games](#games)
 - [github](#github)
 - [golang](#golang)
@@ -44,6 +41,7 @@
 - [jekyll-theme](#jekyll-theme)
 - [json](#json)
 - [kotlin](#kotlin)
+- [language](#language)
 - [linux](#linux)
 - [lua](#lua)
 - [macos](#macos)
@@ -71,9 +69,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [typescript](#typescript)
-- [vue](#vue)
 - [vuejs](#vuejs)
-- [website](#website)
 - [windows](#windows)
 
 ## android 
@@ -100,7 +96,6 @@
 
 ## awesome-list 
 
-- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## bot 
@@ -127,7 +122,7 @@
 
 ## cpp 
 
-- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew
+- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 
 ## csharp 
 
@@ -143,6 +138,9 @@
 
 ## discord 
 
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
+- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 - [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
@@ -162,10 +160,6 @@
 
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
-
-## emulator 
-
-- [skmp/reicast-emulator](https://github.com/skmp/reicast-emulator) - Reicast was a multiplatform Sega Dreamcast emulator
 
 ## firefox 
 
@@ -197,14 +191,6 @@
 - [ninstar/UniMaker](https://github.com/ninstar/UniMaker) - An easy-to-use level design tool.
 - [Rangi42/redstarbluestar](https://github.com/Rangi42/redstarbluestar) - An upgrade to Pokémon Red/Blue. Ports graphics and features from the Space World 1997 Gold/Silver prototype.
 
-## game-development 
-
-- [EasyRPG/Player](https://github.com/EasyRPG/Player) - RPG Maker 2000/2003 and EasyRPG games interpreter
-
-## game-engine 
-
-- [EasyRPG/Player](https://github.com/EasyRPG/Player) - RPG Maker 2000/2003 and EasyRPG games interpreter
-
 ## games 
 
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
@@ -223,7 +209,6 @@
 ## hacktoberfest 
 
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
@@ -239,7 +224,6 @@
 - [J-D-K/JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
-- [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 - [Root-MtX/Nro2Nsp](https://github.com/Root-MtX/Nro2Nsp) - Build Redirction and romfs nsps out of .nros
 - [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: The themeable Nintendo Switch HOME menu Nintendo forgot to make
 - [noahc3/PegaScape](https://github.com/noahc3/PegaScape) - A user-friendly public frontend for common PegaSwitch scripts including Nereba, Caffeine, HBL and more.
@@ -268,7 +252,6 @@
 - [danpashin/twackup-rs](https://github.com/danpashin/twackup-rs) - Safe and fast iOS utility for rebuilding DEB's and backing up packages
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [oolxg/Hanami](https://github.com/oolxg/Hanami) - Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture
-- [asineth0/checkn1x](https://github.com/asineth0/checkn1x) - Light (~50MB) images for jailbreaking iOS devices
 
 ## iot 
 
@@ -276,7 +259,6 @@
 
 ## javascript 
 
-- [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (pixelated avatar) generator
 - [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
@@ -291,18 +273,20 @@
 ## json 
 
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
-- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew
 
 ## kotlin 
 
 - [MenosGrante/Rekado](https://github.com/MenosGrante/Rekado) - Payload launcher and serial number checker for Nintendo Switch
+
+## language 
+
+- [Willem3141/navi-reykunyu](https://github.com/Willem3141/navi-reykunyu) - A user-friendly online Na'vi dictionary, supporting translations to and from English, German, French, and other languages
 
 ## linux 
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
-- [asineth0/checkn1x](https://github.com/asineth0/checkn1x) - Light (~50MB) images for jailbreaking iOS devices
 - [MikeMaximus/gbm](https://github.com/MikeMaximus/gbm) - Game Backup Monitor - Automatically backup your saved games!
 
 ## lua 
@@ -348,11 +332,9 @@
 
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
-- [anvil-works/anvil-runtime](https://github.com/anvil-works/anvil-runtime) - The runtime engine for hosting Anvil web apps
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Rookiestyle/KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - Add OTP support (two factor authentication) to KeePass
 - [waynezhang/foto](https://github.com/waynezhang/foto) - Yet another publishing tool for minimalist photographers.
-- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 - [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - One button to close any overlay on any website
@@ -369,11 +351,9 @@
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.
 - [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes) - A command line program playing with the cutscenes files (USM) from Genshin Impact.
-- [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [Myp3a/GenshinConfigurator](https://github.com/Myp3a/GenshinConfigurator) - A configuration tool for Genshin Impact
 - [Jomata/genshin-switch](https://github.com/Jomata/genshin-switch) - Genshin Impact Quick Account Switching Tool | 原神账号快速切换工具
 - [4kumano/LauncherGI](https://github.com/4kumano/LauncherGI) - A simple Genshin Impact Launcher WRITTEN with VB.NET
-- [xunkong/xunkong](https://github.com/xunkong/xunkong) - 记录旅途中发生的事
 - [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for official game news from Hoyolab.
 - [fcannizzaro/genshin-deck](https://github.com/fcannizzaro/genshin-deck) - A Stream Deck plugin for Genshin Impact
 - [GenshinMatrix/genshin-model-viewer](https://github.com/GenshinMatrix/genshin-model-viewer) - 原神模型预览器 | Genshin Model Viewer | 原神モデルビューア
@@ -397,7 +377,6 @@
 - [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - TwilightMenu++ Boxart Downloader
 - [KirovAir/TWiLightMenu-Updater](https://github.com/KirovAir/TWiLightMenu-Updater) - TwilightMenu++ Updater with FULL boxart support
 - [yunes-0840/Craftus-Redesigned](https://github.com/yunes-0840/Craftus-Redesigned) - Modification of Craftus Reloaded
-- [DS-Homebrew/GodMode9i](https://github.com/DS-Homebrew/GodMode9i) - GodMode9i Explorer - A full access file browser for the Nintendo DS and DSi consoles :godmode:
 - [chishm/nitrohax](https://github.com/chishm/nitrohax) - NitroHax cheat tool for Nintendo DS
 - [ApacheThunder/NTR_Launcher](https://github.com/ApacheThunder/NTR_Launcher) - NTR Launcher - Bring back classic DS boot animation + boot older flashcarts!
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
@@ -446,7 +425,6 @@
 - [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) - ROM Properties Page shell extension
 - [3DSGuy/Project_CTR](https://github.com/3DSGuy/Project_CTR) - 
 - [hax0kartik/wumiibo](https://github.com/hax0kartik/wumiibo) - Amiibo Emulation for 3ds
-- [DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) - Boot an nds file
 - [devkitPro/3ds-hbmenu](https://github.com/devkitPro/3ds-hbmenu) - The 3DS Homebrew Menu (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
 - [zoogie/unSAFE_MODE](https://github.com/zoogie/unSAFE_MODE) - 3DS userland secondary exploit for SAFE_MODE system updater. It's actually a pretty safe hax ( ͡° ͜ʖ ͡°).
 - [TuxSH/universal-otherapp](https://github.com/TuxSH/universal-otherapp) - Userland -&gt; Kernel11 -&gt; Arm9 otherapp for 3DS system versions 1.0 to &lt;= 11.15
@@ -484,6 +462,7 @@
 
 ## pwa 
 
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
 ## python 
@@ -500,7 +479,6 @@
 
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [alphasp/pxview](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS, built with React Native.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
 ## react-native 
@@ -513,7 +491,6 @@
 
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
 
 ## security 
@@ -555,23 +532,13 @@
 ## typescript 
 
 - [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
-- [laurentpayot/minidenticons](https://github.com/laurentpayot/minidenticons) - Super lightweight SVG identicon (pixelated avatar) generator
 - [KevinNovak/Discord-Bot-TypeScript-Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template) - Discord bot - A discord.js bot template written with TypeScript.
-- [frzyc/genshin-optimizer](https://github.com/frzyc/genshin-optimizer) - An Artifact optimizer for Genshin Impact.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
-
-## vue 
-
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## vuejs 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - AI-assisted party creation tool for Genshin Impact. It helps beginners to assemble well-rounded teams no matter how many or which characters they have.
-
-## website 
-
-- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 
 ## windows 
 
