@@ -47,6 +47,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
 - [Nigh/DoMiSo-genshin](https://github.com/Nigh/DoMiSo-genshin) - Automatic play Instrument in Genshin impact
@@ -119,6 +120,7 @@
 
 ## C++ 
 
+- [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
