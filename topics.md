@@ -113,6 +113,7 @@
 
 ## cli 
 
+- [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [danpashin/twackup-rs](https://github.com/danpashin/twackup-rs) - Safe and fast iOS utility for rebuilding DEB's and backing up packages
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 
@@ -208,6 +209,7 @@
 
 ## hacktoberfest 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp
@@ -529,6 +531,7 @@
 
 ## terminal 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
 
 ## typescript 
@@ -544,6 +547,7 @@
 
 ## windows 
 
+- [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
