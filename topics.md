@@ -8,7 +8,6 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
-- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bot](#bot)
@@ -57,7 +56,6 @@
 - [privacy](#privacy)
 - [pwa](#pwa)
 - [python](#python)
-- [qt](#qt)
 - [react](#react)
 - [react-native](#react-native)
 - [rust](#rust)
@@ -83,10 +81,6 @@
 ## api 
 
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
-
-## automation 
-
-- [muuvmuuv/vscode-sundial](https://github.com/muuvmuuv/vscode-sundial) - Changes your VS Code theme based on your sunset and sunrise
 
 ## awesome 
 
@@ -188,14 +182,12 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
 - [genshinsim/gcsim](https://github.com/genshinsim/gcsim) - monte carlo combat simulation for genshin impact
-- [MikeMaximus/gbm](https://github.com/MikeMaximus/gbm) - Game Backup Monitor - Automatically backup your saved games!
 - [ninstar/UniMaker](https://github.com/ninstar/UniMaker) - An easy-to-use level design tool.
 - [Rangi42/redstarbluestar](https://github.com/Rangi42/redstarbluestar) - An upgrade to Pokémon Red/Blue. Ports graphics and features from the Space World 1997 Gold/Silver prototype.
 
 ## games 
 
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
-- [MikeMaximus/gbm](https://github.com/MikeMaximus/gbm) - Game Backup Monitor - Automatically backup your saved games!
 
 ## github 
 
@@ -228,13 +220,9 @@
 - [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) - 💡 A homebrew save management, editing tool and memory trainer for Horizon (Nintendo Switch)
 - [Root-MtX/Nro2Nsp](https://github.com/Root-MtX/Nro2Nsp) - Build Redirction and romfs nsps out of .nros
 - [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: The themeable Nintendo Switch HOME menu Nintendo forgot to make
-- [noahc3/PegaScape](https://github.com/noahc3/PegaScape) - A user-friendly public frontend for common PegaSwitch scripts including Nereba, Caffeine, HBL and more.
 - [Ryuzaki-MrL/Cthulhu](https://github.com/Ryuzaki-MrL/Cthulhu) - Homebrew alternative to Nintendo's dev unit software
 - [derrekr/fastboot3DS](https://github.com/derrekr/fastboot3DS) - A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
 - [zoogie/smilehax-IIe](https://github.com/zoogie/smilehax-IIe) - Primary 3DS userland sploit for Smilebasic 3.6.0 EUR/USA (latest version). 3.3.2 JPN support via app downgrade from &gt; 3.3.2. Works on 11.17.0-50.
-- [zoogie/old-browserhax](https://github.com/zoogie/old-browserhax) - Fast and free old 3ds browser exploit for latest firmware.
-- [zoogie/new-browserhax-XL](https://github.com/zoogie/new-browserhax-XL) - Another one!
-- [zoogie/new-browserhax](https://github.com/zoogie/new-browserhax) - Port of https://github.com/WiiUTest/JsTypeHax to New 3DS browser.
 - [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 
 ## html 
@@ -248,7 +236,6 @@
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
-- [FouadRaheb/Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 - [azu0609/repo](https://github.com/azu0609/repo) - IPA repo for scarlet and altstore with easy to add update script!
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [danpashin/twackup-rs](https://github.com/danpashin/twackup-rs) - Safe and fast iOS utility for rebuilding DEB's and backing up packages
@@ -288,8 +275,6 @@
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
-- [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
-- [MikeMaximus/gbm](https://github.com/MikeMaximus/gbm) - Game Backup Monitor - Automatically backup your saved games!
 
 ## lua 
 
@@ -300,7 +285,6 @@
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 
 ## music 
@@ -332,6 +316,8 @@
 
 ## others 
 
+- [patchzyy/WheelWizard](https://github.com/patchzyy/WheelWizard) - WheelWizard, Retro Rewind Launcher
+- [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - Lightweight YouTube Enhancer
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
@@ -353,42 +339,31 @@
 - [iammanpreetsingh/WhatsApp-Watusi-Restore](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore) - The one and only way to restore official whatsapp chats on watusi application
 - [codepath/ios_guides](https://github.com/codepath/ios_guides) - Comprehensive open-source iOS guides
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
-- [babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy) - 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.
 - [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes) - A command line program playing with the cutscenes files (USM) from Genshin Impact.
 - [Myp3a/GenshinConfigurator](https://github.com/Myp3a/GenshinConfigurator) - A configuration tool for Genshin Impact
-- [Jomata/genshin-switch](https://github.com/Jomata/genshin-switch) - Genshin Impact Quick Account Switching Tool | 原神账号快速切换工具
-- [4kumano/LauncherGI](https://github.com/4kumano/LauncherGI) - A simple Genshin Impact Launcher WRITTEN with VB.NET
-- [c3kay/hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds) - RSS feed (JSON & Atom) generator for official game news from Hoyolab.
 - [fcannizzaro/genshin-deck](https://github.com/fcannizzaro/genshin-deck) - A Stream Deck plugin for Genshin Impact
 - [GenshinMatrix/genshin-model-viewer](https://github.com/GenshinMatrix/genshin-model-viewer) - 原神模型预览器 | Genshin Model Viewer | 原神モデルビューア
 - [System233/system233.github.io](https://github.com/System233/system233.github.io) - 风物之诗琴网页版,支持osu!std模式、PCK资源提取器
 - [xunkong/widget](https://github.com/xunkong/widget) - 寻空小组件
 - [D1firehail/AdeptiScanner-GI](https://github.com/D1firehail/AdeptiScanner-GI) - OCR-based inventory scanner for Genshin Impact
-- [jawslouis/TeapotStudio](https://github.com/jawslouis/TeapotStudio) - Modded AssetStudio for Genshin Impact
-- [dominicogabriel/Genshin-Teapot-Oreo](https://github.com/dominicogabriel/Genshin-Teapot-Oreo) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
 - [dynamiquel/NVIDIA-Ansel-AI-Enhancer](https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer) - NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to upscale any image to 8K whiles adding further quality.
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-- [FydeOS/chromium_os-vm-vmware](https://github.com/FydeOS/chromium_os-vm-vmware) - Build and run your Chromium OS on VMWare virtual machine client
 - [GlitchyPSIX/VEGASRPC](https://github.com/GlitchyPSIX/VEGASRPC) - Discord Rich Presence for VEGAS Pro
-- [koush/AppleMobileDeviceSupport](https://github.com/koush/AppleMobileDeviceSupport) - 
 - [KeyPuncher/WiinUPro](https://github.com/KeyPuncher/WiinUPro) - 
 - [cagefigter/awesome-piracy](https://github.com/cagefigter/awesome-piracy) - 
 - [namkazt/PinBox](https://github.com/namkazt/PinBox) - PinBox is a homebrew for 3DS system to stream content from a windows PC to 3DS.
 - [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - TwilightMenu++ Boxart Downloader
 - [KirovAir/TWiLightMenu-Updater](https://github.com/KirovAir/TWiLightMenu-Updater) - TwilightMenu++ Updater with FULL boxart support
 - [yunes-0840/Craftus-Redesigned](https://github.com/yunes-0840/Craftus-Redesigned) - Modification of Craftus Reloaded
-- [chishm/nitrohax](https://github.com/chishm/nitrohax) - NitroHax cheat tool for Nintendo DS
-- [ApacheThunder/NTR_Launcher](https://github.com/ApacheThunder/NTR_Launcher) - NTR Launcher - Bring back classic DS boot animation + boot older flashcarts!
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [WerWolv/Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) - The Nintendo Switch overlay menu
 - [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs)
 - [HookedBehemoth/sys-tune](https://github.com/HookedBehemoth/sys-tune) - Background audio player for the Nintendo switch
-- [bakatrouble/sys-screenuploader-web](https://github.com/bakatrouble/sys-screenuploader-web) - 
 - [cathery/sys-ftpd](https://github.com/cathery/sys-ftpd) - Nintendo Switch FTP server as a background service (sysmodule)
 - [cathery/sys-con](https://github.com/cathery/sys-con) - Nintendo Switch sysmodule that allows support for third-party controllers
 - [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) - Nintendo Switch homebrew overclocking/underclocking system module and frontend
@@ -412,7 +387,6 @@
 - [eliboa/NxNandManager](https://github.com/eliboa/NxNandManager) - Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc. (Windows)
 - [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 - [SciresM/hactool](https://github.com/SciresM/hactool) - hactool is a tool to view information about, decrypt, and extract common file formats for the Nintendo Switch, especially Nintendo Content Archives.
-- [noahc3/fakenews-injector](https://github.com/noahc3/fakenews-injector) - Injects the "Fake News" save data for an easy browser entry point on Switch.
 - [switchbrew/nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) - The Nintendo Switch Homebrew Menu
 - [rsn8887/uae4all2](https://github.com/rsn8887/uae4all2) - A fast and optimized Amiga Emulator for Vita and Switch
 - [Cpasjuste/pemu](https://github.com/Cpasjuste/pemu) - 
@@ -422,8 +396,6 @@
 - [dnasdw/3dstool](https://github.com/dnasdw/3dstool) - An all-in-one tool for extracting/creating 3ds roms.
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
 - [joel16/3DShell](https://github.com/joel16/3DShell) - 3DShell - (Pronounced 3D Shell) is a multi purpose file manager for the Nintendo 3DS. Heavily inspired by the CyanogenMod/LineageOS file manager.
-- [AliceLR/megazeux](https://github.com/AliceLR/megazeux) - Official MegaZeux git repository
-- [MrNbaYoh/safecerthax](https://github.com/MrNbaYoh/safecerthax) - Remote ARM9 & ARM11 kernel exploit for the Original Nintendo 3DS SAFE_FIRM (O3DS-only) based on SSLoth.
 - [zoogie/b9sTool](https://github.com/zoogie/b9sTool) - `boot.nds` to use the "FIRM partitions known-plaintext" exploit for DSi mode firm writing on 3ds
 - [ihaveamac/custom-install](https://github.com/ihaveamac/custom-install) - Installs a title directly to an SD card for the Nintendo 3DS
 - [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) - ROM Properties Page shell extension
@@ -435,7 +407,6 @@
 - [luigoalma/nitpic3d](https://github.com/luigoalma/nitpic3d) - 
 - [badda71/vice3ds](https://github.com/badda71/vice3ds) - Vice C64 emulator for Nintendo 3DS
 - [badda71/uae3DS](https://github.com/badda71/uae3DS) - Amiga 500 emulator for Nintendo 3DS
-- [asiekierka/TIC-80](https://github.com/asiekierka/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [masterfeizz/DaedalusX64-3DS](https://github.com/masterfeizz/DaedalusX64-3DS) - Port of DaedalusX64 to the Nintendo 3DS
 - [Nanquitas/BootNTR](https://github.com/Nanquitas/BootNTR) - 
 - [KunoichiZ/lumaupdate](https://github.com/KunoichiZ/lumaupdate) - Updater for Luma3DS
@@ -474,10 +445,6 @@
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
 - [azu0609/repo](https://github.com/azu0609/repo) - IPA repo for scarlet and altstore with easy to add update script!
-
-## qt 
-
-- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 
 ## react 
 
