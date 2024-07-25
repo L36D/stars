@@ -29,6 +29,7 @@
 - [game](#game)
 - [games](#games)
 - [github](#github)
+- [go](#go)
 - [golang](#golang)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
@@ -60,6 +61,7 @@
 - [python](#python)
 - [react](#react)
 - [react-native](#react-native)
+- [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -103,6 +105,7 @@
 
 ## chatgpt 
 
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 
 ## chrome-extension 
@@ -125,6 +128,7 @@
 
 ## csharp 
 
+- [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
 - [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [sabihoshi/GenshinLyreMidiPlayer](https://github.com/sabihoshi/GenshinLyreMidiPlayer) - Genshin Impact Windsong Lyre, Floral Zither, & Vintage Lyre MIDI auto player in Modern Mica UI. Supports MIDI instruments & Playlist controls.
@@ -162,6 +166,7 @@
 
 ## firefox 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## flask 
@@ -198,8 +203,13 @@
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [github-profile-achievements/english](https://github.com/github-profile-achievements/english) - Complete list of all GitHub profile Badges and Achievements
 
+## go 
+
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
+
 ## golang 
 
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## google 
@@ -324,11 +334,16 @@
 
 ## open-source 
 
+- [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 
 ## others 
 
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+- [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [patchzyy/WheelWizard](https://github.com/patchzyy/WheelWizard) - WheelWizard, Retro Rewind Launcher
@@ -447,6 +462,8 @@
 
 ## privacy 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
@@ -474,6 +491,10 @@
 - [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## reverse-engineering 
+
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
+
 ## rust 
 
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
@@ -482,6 +503,8 @@
 
 ## security 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
 - [dhaven/ProtonDriveSync](https://github.com/dhaven/ProtonDriveSync) - A keepass extension for storing Database files on ProtonDrive
 
