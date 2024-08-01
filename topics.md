@@ -342,6 +342,7 @@
 
 ## others 
 
+- [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Modern Drop-in Replacement for Nginx AutoIndex / FancyIndex!
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
