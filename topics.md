@@ -21,6 +21,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [electron](#electron)
+- [emulator](#emulator)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -165,6 +166,10 @@
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – the highly configurable and privacy minded discord client.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 
+## emulator 
+
+- [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
+
 ## firefox 
 
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -189,6 +194,7 @@
 
 ## game 
 
+- [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
 - [genshinsim/gcsim](https://github.com/genshinsim/gcsim) - monte carlo combat simulation for genshin impact
@@ -342,6 +348,7 @@
 
 ## others 
 
+- [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
 - [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Modern Drop-in Replacement for Nginx AutoIndex / FancyIndex!
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
