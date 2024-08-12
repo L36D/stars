@@ -256,6 +256,7 @@
 
 ## ios 
 
+- [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS, featuring over hundred customizable options
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
@@ -358,7 +359,6 @@
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [patchzyy/WheelWizard](https://github.com/patchzyy/WheelWizard) - WheelWizard, Retro Rewind Launcher
-- [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - Lightweight YouTube Enhancer
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
