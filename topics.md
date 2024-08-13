@@ -18,6 +18,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [database](#database)
 - [discord](#discord)
 - [docker](#docker)
 - [electron](#electron)
@@ -46,6 +47,7 @@
 - [kotlin](#kotlin)
 - [language](#language)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [macos](#macos)
 - [music](#music)
@@ -67,6 +69,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
+- [sqlite](#sqlite)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [telegram](#telegram)
@@ -140,6 +143,10 @@
 
 - [nasan016/webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
+
+## database 
+
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 
 ## discord 
 
@@ -306,6 +313,10 @@
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
+
+## llm 
+
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 
 ## lua 
 
@@ -481,6 +492,7 @@
 
 ## pwa 
 
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
@@ -527,6 +539,10 @@
 ## serverless 
 
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+
+## sqlite 
+
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 
 ## swift 
 
