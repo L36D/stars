@@ -220,7 +220,7 @@
 ## github 
 
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-- [github-profile-achievements/english](https://github.com/github-profile-achievements/english) - Complete list of all GitHub profile Badges and Achievements
+- [gomzyakov/achievements](https://github.com/gomzyakov/achievements) - Complete list of all GitHub profile Badges and Achievements
 
 ## go 
 
