@@ -91,7 +91,7 @@
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [patchzyy/WheelWizard](https://github.com/patchzyy/WheelWizard) - WheelWizard, Retro Rewind Launcher
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
+- [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [Rookiestyle/KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - Add OTP support (two factor authentication) to KeePass
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
 - [dhaven/ProtonDriveSync](https://github.com/dhaven/ProtonDriveSync) - A keepass extension for storing Database files on ProtonDrive
