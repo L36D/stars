@@ -131,7 +131,7 @@
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) - Play local wireless supported games online
 - [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) - Sysmodule mitming the Horizon hid (human interface device) services to allow using unsupported gamepads on the nintendo switch.
-- [averne/Fizeau](https://github.com/averne/Fizeau) - Adjust the color of your Nintendo Switch screen
+- [averne/Fizeau](https://github.com/averne/Fizeau) - Color management on the Nintendo Switch
 - [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) - Virtual amiibo (amiibo emulation) system for Nintendo Switch
 - [HookedBehemoth/bitmap-printer](https://github.com/HookedBehemoth/bitmap-printer) - it goes brrrrr
 - [HookedBehemoth/ShareNX-Overlay](https://github.com/HookedBehemoth/ShareNX-Overlay) - 
