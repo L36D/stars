@@ -302,6 +302,7 @@
 
 ## TypeScript 
 
+- [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
