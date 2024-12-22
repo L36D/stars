@@ -13,6 +13,7 @@
 - [bot](#bot)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
@@ -118,8 +119,13 @@
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 
+## chrome 
+
+- [Raguggg/quillbot-premium-for-free](https://github.com/Raguggg/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
+
 ## chrome-extension 
 
+- [Raguggg/quillbot-premium-for-free](https://github.com/Raguggg/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - Track Genshin Impact stats in your browser.
 
 ## cli 
@@ -365,6 +371,7 @@
 
 ## others 
 
+- [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock) - To reveal Grammarly Premium Suggestions and Tone Detector
 - [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
