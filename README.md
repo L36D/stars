@@ -267,6 +267,7 @@
 
 ## Python 
 
+- [MRColorR/money4band](https://github.com/MRColorR/money4band) - A multi platform, self updating, lightweight docker stack that use compose to run many passive income applications like Honeygain, EarnApp, IPRoyal Pawns, PacketStream, Peer2Profit, Repocket, Earnfm, 
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
