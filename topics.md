@@ -177,6 +177,7 @@
 
 ## docker 
 
+- [MRColorR/money4band](https://github.com/MRColorR/money4band) - A multi platform, self updating, lightweight docker stack that use compose to run many passive income applications like Honeygain, EarnApp, IPRoyal Pawns, PacketStream, Peer2Profit, Repocket, Earnfm, 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## electron 
