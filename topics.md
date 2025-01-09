@@ -285,7 +285,7 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [danpashin/twackup-rs](https://github.com/danpashin/twackup-rs) - Safe and fast iOS utility for rebuilding DEB's and backing up packages
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [oolxg/Hanami](https://github.com/oolxg/Hanami) - Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture
+- [oolxg/Hanami](https://github.com/oolxg/Hanami) - App for reading and saving manga for iOS/iPadOS
 
 ## iot 
 
@@ -570,14 +570,14 @@
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [oolxg/Hanami](https://github.com/oolxg/Hanami) - Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture
+- [oolxg/Hanami](https://github.com/oolxg/Hanami) - App for reading and saving manga for iOS/iPadOS
 
 ## swiftui 
 
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [oolxg/Hanami](https://github.com/oolxg/Hanami) - Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture
+- [oolxg/Hanami](https://github.com/oolxg/Hanami) - App for reading and saving manga for iOS/iPadOS
 
 ## telegram 
 
