@@ -39,7 +39,7 @@
 - [luigoalma/nitpic3d](https://github.com/luigoalma/nitpic3d) - 
 - [longlostsoul/EvoYellow](https://github.com/longlostsoul/EvoYellow) - Hack in progress to make all pokemon follow and evolve.
 - [Rangi42/redstarbluestar](https://github.com/Rangi42/redstarbluestar) - An upgrade to Pokémon Red/Blue. Ports graphics and features from the Space World 1997 Gold/Silver prototype.
-- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3. It is considered complete, and is no longer being updated. WILL NOT COMPILE with modern RGBDS versions, but RGBDS 0.5.2 or possibly 0.6.1 should work.
 
 ## Batchfile 
 
