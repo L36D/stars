@@ -493,7 +493,7 @@
 - [tscarff1/PokemonEvolutionEditorGen1](https://github.com/tscarff1/PokemonEvolutionEditorGen1) - Edit Pokemon evolutions for generation 1 games.
 - [mtolly/pokemid](https://github.com/mtolly/pokemid) - Import/export Pokémon Red/Blue music as MIDI
 - [longlostsoul/EvoYellow](https://github.com/longlostsoul/EvoYellow) - Hack in progress to make all pokemon follow and evolve.
-- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3. It is considered complete, and is no longer being updated. WILL NOT COMPILE with modern RGBDS versions, but RGBDS 0.5.2 or possibly 0.6.1 should work.
 
 ## package-manager 
 
