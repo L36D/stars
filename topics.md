@@ -215,6 +215,7 @@
 ## game 
 
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
+- [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
 - [genshinsim/gcsim](https://github.com/genshinsim/gcsim) - monte carlo combat simulation for genshin impact
@@ -391,7 +392,6 @@
 - [logseq/publish-spa](https://github.com/logseq/publish-spa) - A github action and CLI to publish logseq graphs as a SPA app
 - [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -401,7 +401,7 @@
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 - [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - One button to close any overlay on any website
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [badges-and-achievements/badges-and-achievements.github.io](https://github.com/badges-and-achievements/badges-and-achievements.github.io) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
+- [gomzyakov/achievements](https://github.com/gomzyakov/achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
 - [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known) - Link my GitHub page's domain to the Discord Connections
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
