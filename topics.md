@@ -59,6 +59,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -389,6 +390,10 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## obsidian-plugin 
+
+- [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
+
 ## open-source 
 
 - [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
@@ -398,7 +403,6 @@
 ## others 
 
 - [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock) - To reveal Grammarly Premium Suggestions and Tone Detector
-- [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
 - [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Modern Drop-in Replacement for Nginx AutoIndex / FancyIndex!
