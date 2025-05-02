@@ -256,7 +256,7 @@
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
-- [gomzyakov/achievements](https://github.com/gomzyakov/achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
+- [gomzyakov/github-profile-achievements](https://github.com/gomzyakov/github-profile-achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
 - [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known) - Link my GitHub page's domain to the Discord Connections
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [iammanpreetsingh/WhatsApp-Watusi-Restore](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore) - The one and only way to restore official whatsapp chats on watusi application
