@@ -424,7 +424,7 @@
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 - [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - One button to close any overlay on any website
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [gomzyakov/achievements](https://github.com/gomzyakov/achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
+- [gomzyakov/github-profile-achievements](https://github.com/gomzyakov/github-profile-achievements) - Complete list of all GitHub profile Badges and Achievements (20+ languages)
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
 - [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known) - Link my GitHub page's domain to the Discord Connections
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
