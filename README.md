@@ -146,7 +146,7 @@
 - [retronx-team/supermariowar-nx](https://github.com/retronx-team/supermariowar-nx) - Switch port of Super Mario War, a fun Super Mario multiplayer game
 - [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [eliboa/NxNandManager](https://github.com/eliboa/NxNandManager) - Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc. (Windows)
-- [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: The themeable Nintendo Switch HOME Menu you deserve
+- [XorTroll/uLaunch](https://github.com/XorTroll/uLaunch) - :rocket: The themeable Nintendo Switch HOME Menu we deserve
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [Ryuzaki-MrL/Cthulhu](https://github.com/Ryuzaki-MrL/Cthulhu) - Homebrew alternative to Nintendo's dev unit software
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
