@@ -83,6 +83,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
 - [website](#website)
@@ -628,6 +629,10 @@
 ## ubuntu 
 
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
+
+## ui 
+
+- [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
 
 ## visual-studio-code 
 
