@@ -403,6 +403,7 @@
 
 ## others 
 
+- [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock) - To reveal Grammarly Premium Suggestions and Tone Detector
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
