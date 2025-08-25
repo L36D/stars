@@ -310,6 +310,7 @@
 
 ## TypeScript 
 
+- [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
