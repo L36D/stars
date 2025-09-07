@@ -34,6 +34,7 @@
 - [framework](#framework)
 - [game](#game)
 - [games](#games)
+- [gaming](#gaming)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -247,6 +248,11 @@
 ## games 
 
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
+
+## gaming 
+
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+- [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 
 ## github 
 
@@ -469,7 +475,6 @@
 - [cathery/sys-ftpd](https://github.com/cathery/sys-ftpd) - Nintendo Switch FTP server as a background service (sysmodule)
 - [cathery/sys-con](https://github.com/cathery/sys-con) - Nintendo Switch sysmodule that allows support for third-party controllers
 - [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) - Nintendo Switch homebrew overclocking/underclocking system module and frontend
-- [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) - Play local wireless supported games online
 - [jakibaki/hid-mitm](https://github.com/jakibaki/hid-mitm) - Sysmodule mitming the Horizon hid (human interface device) services to allow using unsupported gamepads on the nintendo switch.
 - [averne/Fizeau](https://github.com/averne/Fizeau) - Color management on the Nintendo Switch
