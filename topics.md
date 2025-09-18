@@ -60,6 +60,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -397,6 +398,11 @@
 ## objective-c 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## obsidian 
+
+- [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 
 ## obsidian-md 
 
