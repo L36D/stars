@@ -472,7 +472,6 @@
 - [namkazt/PinBox](https://github.com/namkazt/PinBox) - PinBox is a homebrew for 3DS system to stream content from a windows PC to 3DS.
 - [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - TwilightMenu++ Boxart Downloader
 - [KirovAir/TWiLightMenu-Updater](https://github.com/KirovAir/TWiLightMenu-Updater) - TwilightMenu++ Updater with FULL boxart support
-- [yunes-0840/Craftus-Redesigned](https://github.com/yunes-0840/Craftus-Redesigned) - Modification of Craftus Reloaded
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [WerWolv/Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) - The Nintendo Switch overlay menu
