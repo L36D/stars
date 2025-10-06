@@ -53,7 +53,6 @@
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
 - [Nigh/DoMiSo-genshin](https://github.com/Nigh/DoMiSo-genshin) - Automatic play Instrument in Genshin impact
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [yunes-0840/Craftus-Redesigned](https://github.com/yunes-0840/Craftus-Redesigned) - Modification of Craftus Reloaded
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
 - [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs)
 - [HookedBehemoth/sys-tune](https://github.com/HookedBehemoth/sys-tune) - Background audio player for the Nintendo switch
