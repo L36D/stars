@@ -91,6 +91,7 @@
 - [vuejs](#vuejs)
 - [website](#website)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## android 
 
@@ -449,7 +450,6 @@
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [Galactic-Dev/iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - A jailbreak tweak that implements the sponsorblock api to skip sponsorships in youtube videos.
 - [iammanpreetsingh/WhatsApp-Watusi-Restore](https://github.com/iammanpreetsingh/WhatsApp-Watusi-Restore) - The one and only way to restore official whatsapp chats on watusi application
 - [codepath/ios_guides](https://github.com/codepath/ios_guides) - Comprehensive open-source iOS guides
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
@@ -679,6 +679,13 @@
 - [3raxton/spicetify-custom-apps-and-extensions](https://github.com/3raxton/spicetify-custom-apps-and-extensions) - A community-driven collection of custom apps for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+- [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
+
+## youtube 
+
+- [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
+- [Galactic-Dev/iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - A jailbreak tweak that implements the sponsorblock api to skip sponsorships in youtube videos.
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
 
 
