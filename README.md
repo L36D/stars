@@ -276,7 +276,7 @@
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
+- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
 - [Loy6410/ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in Python
