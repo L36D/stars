@@ -141,11 +141,11 @@
 
 ## chrome 
 
-- [Raguggg/quillbot-premium-for-free](https://github.com/Raguggg/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
+- [Ragug/quillbot-premium-for-free](https://github.com/Ragug/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
 
 ## chrome-extension 
 
-- [Raguggg/quillbot-premium-for-free](https://github.com/Raguggg/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
+- [Ragug/quillbot-premium-for-free](https://github.com/Ragug/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - Track Genshin Impact stats in your browser.
 
 ## cli 
