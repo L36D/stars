@@ -39,6 +39,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -273,6 +274,12 @@
 
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 
+## gui 
+
+- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
+- [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
+- [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
+
 ## hacktoberfest 
 
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -494,9 +501,7 @@
 - [Guillem96/argon-nx](https://github.com/Guillem96/argon-nx) - 🚀 GUI payload chainloader for Nintendo Swtich.
 - [retronx-team/supermariowar-nx](https://github.com/retronx-team/supermariowar-nx) - Switch port of Super Mario War, a fun Super Mario multiplayer game
 - [StudentBlake/XCI-Explorer](https://github.com/StudentBlake/XCI-Explorer) - View contents of XCI files and more!
-- [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) - C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
 - [eliboa/NxNandManager](https://github.com/eliboa/NxNandManager) - Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc. (Windows)
-- [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 - [SciresM/hactool](https://github.com/SciresM/hactool) - hactool is a tool to view information about, decrypt, and extract common file formats for the Nintendo Switch, especially Nintendo Content Archives.
 - [switchbrew/nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) - The Nintendo Switch Homebrew Menu
 - [rsn8887/uae4all2](https://github.com/rsn8887/uae4all2) - A fast and optimized Amiga Emulator for Vita and Switch
