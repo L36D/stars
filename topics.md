@@ -18,6 +18,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
+- [command-line](#command-line)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -158,6 +159,11 @@
 ## code 
 
 - [HANDZCZ/genshin-stats](https://github.com/HANDZCZ/genshin-stats) - Repository that host code to show my genshin stats. Claims daily reward and active primo codes.
+
+## command-line 
+
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
 ## cpp 
 
@@ -452,7 +458,7 @@
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [gomzyakov/github-achievements](https://github.com/gomzyakov/github-achievements) - 🦄 Complete list of all GitHub profile Badges and Achievements (20+ languages)
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
-- [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known) - Link my GitHub page's domain to the Discord Connections
+- [priyanzsh/.well-known](https://github.com/priyanzsh/.well-known) - Link my GitHub page's domain to the Discord Connections
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
