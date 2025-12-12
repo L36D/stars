@@ -459,7 +459,7 @@
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [gomzyakov/github-achievements](https://github.com/gomzyakov/github-achievements) - 🦄 Complete list of all GitHub profile Badges and Achievements (20+ languages)
 - [siieo/siieo.github.io](https://github.com/siieo/siieo.github.io) - 
-- [priyanzsh/.well-known](https://github.com/priyanzsh/.well-known) - Link my GitHub page's domain to the Discord Connections
+- [priyazsh/.well-known](https://github.com/priyazsh/.well-known) - Link my GitHub page's domain to the Discord Connections
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
