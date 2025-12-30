@@ -671,7 +671,7 @@
 ## vuejs 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - Automatic party creation tool for Genshin Impact. It helps beginners to assemble well-rounded teams no matter how many or which characters they have.
+- [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - Automatic party creation tool for Genshin Impact.
 
 ## website 
 
