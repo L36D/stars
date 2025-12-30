@@ -330,7 +330,7 @@
 ## Vue 
 
 - [TibixDev/GenshinLyreParser](https://github.com/TibixDev/GenshinLyreParser) - Genshin Lyre Parser is a webapp that can parse notes from any Genshin Impact lyre video.
-- [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - Automatic party creation tool for Genshin Impact. It helps beginners to assemble well-rounded teams no matter how many or which characters they have.
+- [man90es/Genshin-Party-Builder](https://github.com/man90es/Genshin-Party-Builder) - Automatic party creation tool for Genshin Impact.
 
 
 ## License
