@@ -90,6 +90,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [userscript](#userscript)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
 - [website](#website)
@@ -663,6 +664,10 @@
 ## ui 
 
 - [gamer2810/steam-miniprofile](https://github.com/gamer2810/steam-miniprofile) - Feature your Steam's miniprofile on your website
+
+## userscript 
+
+- [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
 
 ## visual-studio-code 
 
