@@ -91,6 +91,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [userscript](#userscript)
+- [video](#video)
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
 - [website](#website)
@@ -668,6 +669,11 @@
 ## userscript 
 
 - [d3ward/scriptz](https://github.com/d3ward/scriptz) - An awesome collection of userscripts
+
+## video 
+
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
+- [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
 
 ## visual-studio-code 
 
