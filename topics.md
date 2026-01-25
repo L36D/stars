@@ -322,6 +322,7 @@
 
 ## ios 
 
+- [cranci1/AnimeGen](https://github.com/cranci1/AnimeGen) - A simple way to enjoy anime art
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
@@ -631,6 +632,7 @@
 
 ## swift 
 
+- [cranci1/AnimeGen](https://github.com/cranci1/AnimeGen) - A simple way to enjoy anime art
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
