@@ -301,6 +301,7 @@
 
 ## Swift 
 
+- [cranci1/AnimeGen](https://github.com/cranci1/AnimeGen) - A simple way to enjoy anime art
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [codepath/ios_guides](https://github.com/codepath/ios_guides) - Comprehensive open-source iOS guides
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
