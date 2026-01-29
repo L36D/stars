@@ -96,6 +96,7 @@
 - [vuejs](#vuejs)
 - [website](#website)
 - [windows](#windows)
+- [xcode](#xcode)
 - [youtube](#youtube)
 
 ## android 
@@ -322,6 +323,7 @@
 
 ## ios 
 
+- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [cranci1/AnimeGen](https://github.com/cranci1/AnimeGen) - A simple way to enjoy anime art
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
@@ -633,6 +635,7 @@
 
 ## swift 
 
+- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [cranci1/AnimeGen](https://github.com/cranci1/AnimeGen) - A simple way to enjoy anime art
 - [TheResonanceTeam/TrollApps](https://github.com/TheResonanceTeam/TrollApps) - App Store alternative for TrollStore
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -709,6 +712,10 @@
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
+
+## xcode 
+
+- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 
 ## youtube 
 
