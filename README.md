@@ -311,6 +311,7 @@
 
 ## TypeScript 
 
+- [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
