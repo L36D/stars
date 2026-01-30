@@ -442,7 +442,6 @@
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
-- [blueagler/Grammarly-Helper](https://github.com/blueagler/Grammarly-Helper) - To reveal Grammarly Premium Suggestions and Tone Detector
 - [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
 - [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Modern Drop-in Replacement for Nginx AutoIndex / FancyIndex!
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
