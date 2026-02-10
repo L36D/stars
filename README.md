@@ -310,6 +310,7 @@
 
 ## TypeScript 
 
+- [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync) - sync notes across devices in Obsidian via Google Drive
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
