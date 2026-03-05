@@ -226,7 +226,7 @@
 ## Logos 
 
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
-- [TherionRO/YouTubeiVanced](https://github.com/TherionRO/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
+- [ragedriver/YouTubeiVanced](https://github.com/ragedriver/YouTubeiVanced) - iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 ## Makefile 
