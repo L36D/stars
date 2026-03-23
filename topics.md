@@ -50,6 +50,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
@@ -357,6 +358,10 @@
 ## jekyll-theme 
 
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
+
+## jetpack-compose 
+
+- [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 
 ## json 
 
