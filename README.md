@@ -71,6 +71,7 @@
 - [lantus/mame-nx](https://github.com/lantus/mame-nx) - MAME 0.72 for the Nintendo Switch
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [dnasdw/3dstool](https://github.com/dnasdw/3dstool) - An all-in-one tool for extracting/creating 3ds roms.
+- [joel16/3DShell](https://github.com/joel16/3DShell) - 3DShell - (Pronounced 3D Shell) is a multi purpose file manager for the Nintendo 3DS. Heavily inspired by the CyanogenMod/LineageOS file manager.
 - [zoogie/b9sTool](https://github.com/zoogie/b9sTool) - `boot.nds` to use the "FIRM partitions known-plaintext" exploit for DSi mode firm writing on 3ds
 - [derrekr/fastboot3DS](https://github.com/derrekr/fastboot3DS) - A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
 - [3DSGuy/Project_CTR](https://github.com/3DSGuy/Project_CTR) - 
@@ -150,7 +151,6 @@
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [Ryuzaki-MrL/Cthulhu](https://github.com/Ryuzaki-MrL/Cthulhu) - Homebrew alternative to Nintendo's dev unit software
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
-- [joel16/3DShell](https://github.com/joel16/3DShell) - 3DShell - (Pronounced 3D Shell) is a multi purpose file manager for the Nintendo 3DS. Heavily inspired by the CyanogenMod/LineageOS file manager.
 - [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) - ROM Properties Page shell extension
 - [hax0kartik/wumiibo](https://github.com/hax0kartik/wumiibo) - Amiibo Emulation for 3ds
 - [masterfeizz/DaedalusX64-3DS](https://github.com/masterfeizz/DaedalusX64-3DS) - Port of DaedalusX64 to the Nintendo 3DS
