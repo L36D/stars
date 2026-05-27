@@ -408,7 +408,7 @@
 
 - [TibixDev/GenshinLyreParser](https://github.com/TibixDev/GenshinLyreParser) - Genshin Lyre Parser is a webapp that can parse notes from any Genshin Impact lyre video.
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
-- [Nigh/DoMiSo-genshin](https://github.com/Nigh/DoMiSo-genshin) - Automatic play Instrument in Genshin impact
+- [Nigh/DoMiSo-Universal](https://github.com/Nigh/DoMiSo-Universal) - Automatic play Instrument in Genshin impact
 
 ## nextjs 
 
