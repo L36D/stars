@@ -51,7 +51,7 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [stsaz/phiola](https://github.com/stsaz/phiola) - Fast audio player, recorder, converter for Windows, Linux & Android
-- [Nigh/DoMiSo-Universal](https://github.com/Nigh/DoMiSo-Universal) - Automatic play Instrument in Genshin impact
+- [Nigh/DoMiSo-Universal](https://github.com/Nigh/DoMiSo-Universal) - Automatic play Instrument in Games
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
 - [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) - Host process for loading Switch overlay OVLs (NROs)
