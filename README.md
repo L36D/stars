@@ -103,7 +103,6 @@
 - [ArvinZJC/PaimonTray](https://github.com/ArvinZJC/PaimonTray) - (Archived) Now, Paimon is on your Windows "system tray"!
 - [xunkong/widget](https://github.com/xunkong/widget) - 寻空小组件
 - [D1firehail/AdeptiScanner-GI](https://github.com/D1firehail/AdeptiScanner-GI) - OCR-based inventory scanner for Genshin Impact
-- [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [zumoshi/BrowserSelect](https://github.com/zumoshi/BrowserSelect) - Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links.
 - [dynamiquel/NVIDIA-Ansel-AI-Enhancer](https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer) - NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to upscale any image to 8K whiles adding further quality.
 - [GlitchyPSIX/VEGASRPC](https://github.com/GlitchyPSIX/VEGASRPC) - Discord Rich Presence for VEGAS Pro
@@ -182,6 +181,7 @@
 - [waynezhang/foto](https://github.com/waynezhang/foto) - Yet another publishing tool for minimalist photographers.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [genshinsim/gcsim](https://github.com/genshinsim/gcsim) - monte carlo combat simulation for genshin impact
+- [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 
 ## HTML 
 
