@@ -16,6 +16,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [code](#code)
 - [command-line](#command-line)
@@ -155,6 +156,10 @@
 
 - [Ragug/quillbot-premium-for-free](https://github.com/Ragug/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - Track Genshin Impact stats in your browser.
+
+## claude 
+
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ## cli 
 
