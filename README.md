@@ -161,7 +161,6 @@
 ## CSS 
 
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme) - A easily customizable and automatically updating theme for Discord
 
@@ -252,6 +251,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Ragug/quillbot-premium-for-free](https://github.com/Ragug/quillbot-premium-for-free) - Quillbot Unlock: It is used users paraphrase an unlimited number of words, with access to seven different writing modes and four synonyms options. Its summarizer feature has a word limit of 6000, and 
 - [blueagler/Grammarly-Helper](https://github.com/blueagler/Grammarly-Helper) - To reveal Grammarly Premium Suggestions and Tone Detector
+- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility) - Keeping track of Android apps and their compatibility with the Windows Subsystem for Android
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
