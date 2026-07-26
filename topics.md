@@ -506,7 +506,7 @@
 - [KeyPuncher/WiinUPro](https://github.com/KeyPuncher/WiinUPro) - 
 - [cagefigter/awesome-piracy](https://github.com/cagefigter/awesome-piracy) - 
 - [namkazt/PinBox](https://github.com/namkazt/PinBox) - PinBox is a homebrew for 3DS system to stream content from a windows PC to 3DS.
-- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - TwilightMenu++ Boxart Downloader
+- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - Box art for TWiLightMenu++ and Pico Launcher, straight onto your SD card. Browser, desktop and DS/DSi clients.
 - [KirovAir/TWiLightMenu-Updater](https://github.com/KirovAir/TWiLightMenu-Updater) - TwilightMenu++ Updater with FULL boxart support
 - [RocketRobz/NTR_Forwarder](https://github.com/RocketRobz/NTR_Forwarder) - Game/App shortcuts for your DSi/3DS HOME Menu!
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
