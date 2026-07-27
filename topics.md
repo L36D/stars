@@ -540,7 +540,7 @@
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [dnasdw/3dstool](https://github.com/dnasdw/3dstool) - An all-in-one tool for extracting/creating 3ds roms.
-- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
+- [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save management framework for 3DS and Switch.
 - [joel16/3DShell](https://github.com/joel16/3DShell) - 3DShell - (Pronounced 3D Shell) is a multi purpose file manager for the Nintendo 3DS. Heavily inspired by the CyanogenMod/LineageOS file manager.
 - [zoogie/b9sTool](https://github.com/zoogie/b9sTool) - `boot.nds` to use the "FIRM partitions known-plaintext" exploit for DSi mode firm writing on 3ds
 - [ihaveamac/custom-install](https://github.com/ihaveamac/custom-install) - Installs a title directly to an SD card for the Nintendo 3DS
