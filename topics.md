@@ -312,7 +312,7 @@
 
 ## homebrew 
 
-- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - Box art for TWiLightMenu++ and Pico Launcher, straight onto your SD card. Browser, desktop and DS/DSi clients.
+- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - Box art/Covers for TWiLightMenu++ and Pico Launcher, straight onto your SD card for any system.
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [joel16/NX-Shell](https://github.com/joel16/NX-Shell) - A multi-purpose file manager for the Nintendo Switch.
 - [DarkMatterCore/nxdumptool](https://github.com/DarkMatterCore/nxdumptool) - Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards and installed SD/eMMC titles.
@@ -590,7 +590,7 @@
 
 ## pwa 
 
-- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - A curated list of Progressive Web Apps, resources, tools and articles
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
 ## python 
