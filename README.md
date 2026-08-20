@@ -315,7 +315,7 @@
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [tabibyte/obsifetch](https://github.com/tabibyte/obsifetch) - neofetch but for obsidian
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - A single-file relational spreadsheet for you and your agent.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [Willem3141/navi-reykunyu](https://github.com/Willem3141/navi-reykunyu) - A user-friendly online Na'vi dictionary, supporting translations to and from English, German, French, and other languages
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
