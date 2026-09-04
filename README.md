@@ -96,7 +96,6 @@
 - [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [Rookiestyle/KeePassOTP](https://github.com/Rookiestyle/KeePassOTP) - Add OTP support (two factor authentication) to KeePass
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
-- [dhaven/ProtonDriveSync](https://github.com/dhaven/ProtonDriveSync) - A keepass extension for storing Database files on ProtonDrive
 - [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes) - A command line program playing with the cutscenes files (USM) from Genshin Impact.
 - [Myp3a/GenshinConfigurator](https://github.com/Myp3a/GenshinConfigurator) - A configuration tool for Genshin Impact
 - [GenshinMatrix/genshin-model-viewer](https://github.com/GenshinMatrix/genshin-model-viewer) - 原神模型预览器 | Genshin Model Viewer | 原神モデルビューア
@@ -203,6 +202,7 @@
 ## JavaScript 
 
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
+- [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Caddy file listing theme & Nginx AutoIndex theme
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -289,7 +289,6 @@
 
 ## Rust 
 
-- [hykilpikonna/MeowIndex](https://github.com/hykilpikonna/MeowIndex) - Modern Drop-in Replacement for Nginx AutoIndex / FancyIndex!
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [danpashin/twackup-rs](https://github.com/danpashin/twackup-rs) - Safe and fast iOS utility for rebuilding DEB's and backing up packages
