@@ -444,7 +444,7 @@
 
 ## obsidian-md 
 
-- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
+- [rushi-cheulwar/Obsidian-CSS-Snippets](https://github.com/rushi-cheulwar/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 
 ## obsidian-plugin 
 
@@ -632,6 +632,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
+- [dhaven/ProtonDriveSync](https://github.com/dhaven/ProtonDriveSync) - A keepass extension for storing Database files on ProtonDrive
 
 ## self-hosted 
 
