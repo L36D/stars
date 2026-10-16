@@ -314,7 +314,7 @@
 
 ## homebrew 
 
-- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - Box art/Covers for TWiLightMenu++ and Pico Launcher, straight onto your SD card for any system.
+- [KirovAir/TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) - Box art/Covers for TWiLightMenu++, Pico Launcher and AKMenu-Next, straight onto your SD card.
 - [exelix11/SysDVR](https://github.com/exelix11/SysDVR) - Stream switch games to your PC via USB or network
 - [joel16/NX-Shell](https://github.com/joel16/NX-Shell) - A multi-purpose file manager for the Nintendo Switch.
 - [DarkMatterCore/nxdumptool](https://github.com/DarkMatterCore/nxdumptool) - Generates XCI/NSP/HFS0/ExeFS/RomFS/Certificate/Ticket dumps from Nintendo Switch gamecards and installed SD/eMMC titles.
