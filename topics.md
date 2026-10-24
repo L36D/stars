@@ -26,6 +26,7 @@
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
+- [downloader](#downloader)
 - [electron](#electron)
 - [embedded](#embedded)
 - [emulator](#emulator)
@@ -220,6 +221,12 @@
 
 - [MRColorR/money4band](https://github.com/MRColorR/money4band) - A multi platform, self updating, lightweight docker stack that use compose to run many passive income applications like Honeygain, EarnApp, IPRoyal Pawns, PacketStream, Peer2Profit, Repocket, Earnfm, 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+## downloader 
+
+- [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
+- [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
+- [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
 
 ## electron 
 
@@ -499,7 +506,6 @@
 - [System233/system233.github.io](https://github.com/System233/system233.github.io) - 风物之诗琴网页版,支持osu!std模式、PCK资源提取器
 - [xunkong/widget](https://github.com/xunkong/widget) - 寻空小组件
 - [D1firehail/AdeptiScanner-GI](https://github.com/D1firehail/AdeptiScanner-GI) - OCR-based inventory scanner for Genshin Impact
-- [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
 - [dynamiquel/NVIDIA-Ansel-AI-Enhancer](https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer) - NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to upscale any image to 8K whiles adding further quality.
 - [Paisseon/SatellaJailed](https://github.com/Paisseon/SatellaJailed) - Jailed in-app purchase cracker (iOS 12-16)
 - [JulienMaille/spicetify-dynamic-theme](https://github.com/JulienMaille/spicetify-dynamic-theme) - A theme for Spicetify with support for light/dark modes and album art based colors.
